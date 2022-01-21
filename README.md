@@ -1,2 +1,3 @@
-# Digital_clock
-A DCF77 based  digital clock made with Cyclone II FPGA 2C35 chip
+# Digital clock
+TUM course in analogue electronics final project.
+Everything that you need to know is written in the pdf and the verilog hdl files themselves
